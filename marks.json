@@ -1,0 +1,144 @@
+{
+    "subjects": [
+        {
+            "name": "history",
+            "marks": [
+                {
+                    "st1": 18.5
+                },
+                {
+                    "st2": 18.5
+                },
+                {
+                    "average": 18.5
+                }
+            ]
+        },
+        {
+            "name": "geography",
+            "marks": [
+                {
+                    "st1": 19.0
+                },
+                {
+                    "st2": 19.0
+                },
+                {
+                    "average": 19.0
+                }
+            ]
+        },
+        {
+            "name": "maths",
+            "marks": [
+                {
+                    "st1": 19.0
+                },
+                {
+                    "st2": 19.0
+                },
+                {
+                    "average": 19.0
+                }
+            ]
+        },
+        {
+            "name": "biology",
+            "marks": [
+                {
+                    "st1": 19.0
+                },
+                {
+                    "st2": 19.0
+                },
+                {
+                    "average": 19.0
+                }
+            ]
+        },
+        {
+            "name": "chemistry",
+            "marks": [
+                {
+                    "st1": 19.0
+                },
+                {
+                    "st2": 19.0
+                },
+                {
+                    "average": 19.0
+                }
+            ]
+        },
+        {
+            "name": "physics",
+            "marks": [
+                {
+                    "st1": 19.0
+                },
+                {
+                    "st2": 20.0
+                },
+                {
+                    "average": 19.5
+                }
+            ]
+        },
+        {
+            "name": "hindi",
+            "marks": [
+                {
+                    "st1": 18.0
+                },
+                {
+                    "st2": 15.0
+                },
+                {
+                    "average": 16.5
+                }
+            ]
+        },
+        {
+            "name": "english1",
+            "marks": [
+                {
+                    "st1": 16.0
+                },
+                {
+                    "st2": 18.0
+                },
+                {
+                    "average": 17.0
+                }
+            ]
+        },
+        {
+            "name": "english2",
+            "marks": [
+                {
+                    "st1": 17.0
+                },
+                {
+                    "st2": 14.0
+                },
+                {
+                    "average": 15.5
+                }
+            ]
+        },
+        {
+            "name": "computer",
+            "marks": [
+                {
+                    "st1": 19.0
+                },
+                {
+                    "st2": 16.0
+                },
+                {
+                    "average": 17.5
+                }
+            ]
+        }
+    ]
+}
